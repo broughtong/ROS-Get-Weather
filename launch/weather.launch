@@ -1,0 +1,16 @@
+<launch>
+
+    <!-- launch weather node -->
+    <node pkg="ros_get_weather" type="getweather.py" name="getweather">
+
+        <!-- customisable parameters -->
+        <param name="pollInterval" value="900" /> <!-- lookup weather every n seconds -->
+        <param name="publishRate" value="0.2" /> <!-- publish weather rate (hz) -->
+        <param name="location" value="prague" /> <!-- location to get weather forecast for -->
+
+        <!-- if you want a custom output topic -->
+        <!-- <remap from="weather" to="my_weather_topic"/> -->
+
+    </node>
+
+</launch>
