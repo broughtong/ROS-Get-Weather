@@ -1,6 +1,8 @@
 # ROS-Get-Weather
 ROS node for getting the current weather forecast.
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+
 This node will intermittently poll for the current weather forecast and continually publish on a topic.
 
 Set the geographical location in the launch file, build, do `rostopic echo /weather`.
