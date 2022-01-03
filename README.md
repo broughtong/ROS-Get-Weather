@@ -17,4 +17,4 @@ Example of the published message:
     humidity: "87%"
     wind: "14 km/h"
     
-Tested Ubuntu 20.04 LTS ROS noetic. 
+Tested on Ubuntu 18.04 LTS with ROS Melodic and Ubuntu 20.04 LTS with ROS Noetic.
