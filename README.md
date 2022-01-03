@@ -18,3 +18,6 @@ Example of the published message:
     wind: "14 km/h"
     
 Tested on Ubuntu 18.04 LTS with ROS Melodic and Ubuntu 20.04 LTS with ROS Noetic.
+
+This work was supported by the EU-H2020-FET-Open (RIA) project RoboRoyale, with reference number 964492.
+
