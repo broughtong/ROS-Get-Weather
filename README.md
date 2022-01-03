@@ -19,7 +19,7 @@ Example of the published message:
     
 Tested on Ubuntu 18.04 LTS with ROS Melodic and Ubuntu 20.04 LTS with ROS Noetic.
 
-#### Funding
+#### Acknowledgments
 
 This work was supported by the EU-H2020-FET-Open (RIA) project RoboRoyale, with reference number 964492.
 
