@@ -1,4 +1,4 @@
-# ROS-Get-Weather
+# ROS Get Weather
 ROS node for getting the current weather forecast.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
