@@ -5,7 +5,7 @@ ROS node for getting the current weather forecast.
 
 This node will intermittently poll for the current weather forecast and continually publish on a topic.
 
-Set the geographical location in the launch file, build, do `rostopic echo /weather`.
+Set the geographical location in the launch file (eg. "Prague"), build, source, do `rostopic echo /weather`.
 
 Example of the published message:
 
