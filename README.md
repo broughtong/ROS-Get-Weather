@@ -16,10 +16,10 @@ Example of the published message:
     precipitation: "7%"
     humidity: "87%"
     wind: "14 km/h"
-    
-Tested on Ubuntu 18.04 LTS with ROS Melodic and Ubuntu 20.04 LTS with ROS Noetic.
 
 Requires BeautifulSoup4, ie. `pip install beautifulsoup4`.
+    
+Tested on Ubuntu 18.04 LTS with ROS Melodic and Ubuntu 20.04 LTS with ROS Noetic.
 
 #### Acknowledgments
 
